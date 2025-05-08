@@ -1,4 +1,3 @@
-Implement a text classification model for sentiment analysis using a pre-trained word embedding model like Word2Vec or GloVe. Train and evaluate the model on a sentiment analysis dataset.
 # 💬 Twitter Sentiment Analysis with LSTMs & Pretrained Embeddings
 
 This project implements a deep learning-based **text classification model** for **sentiment analysis** on Twitter data. It utilizes **pretrained word embedding vectors** (such as GloVe or Word2Vec) and a **Long Short-Term Memory (LSTM)** network to detect whether a tweet expresses a **positive**, **negative**, or **neutral** sentiment.
